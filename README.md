@@ -13,3 +13,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ysseff&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=ysseff&icon=5&color=12)](https://visitcount.itsvg.in)
